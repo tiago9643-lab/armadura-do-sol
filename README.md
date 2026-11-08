@@ -8,6 +8,15 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Etiquetas ainda mais discretas
+
+**👻 Visão limpa na luta**
+- 🫥 Os selinhos dos itens no chão ficaram **menores e quase transparentes**.
+- 🔍 A etiqueta completa só abre quando você está **bem perto do item** (uns 3 passos) e fica **acima dele**, mais transparente.
+- ⚔️ Se tiver **inimigo perto do item**, a etiqueta continua pequena, para não atrapalhar a luta.
+- 💎 As **pedras** ficam sempre no selinho: os detalhes aparecem no cartão quando você pega.
+- 🎮 O **cursor do mouse some** também quando você joga no controle.
+
 ### 🗓️ 08/11/2026 — Ícone certo de cada arma + etiquetas que não atrapalham
 
 **⚔️ Cada arma com o seu ícone**
