@@ -8,6 +8,15 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Ray tracing corrigido e melhorado
+
+**✨ Ray tracing (simulado) novo**
+- 🌧️ **Corrigida a névoa branca/manchada** que aparecia com o ray tracing ligado na chuva (primeira fase) e em outras fases com neblina: o efeito agora não mexe mais na neblina.
+- 🧱 Sombras de contato mais bonitas: cantos de casas, base das árvores, pés do herói e dos inimigos ficam escurecidos de um jeito mais natural.
+- 🧼 Imagem mais limpa: o efeito é suavizado sem borrar as bordas, então acabaram os chuviscos e as listras.
+- 🔥 Coisas que brilham (fogo, lava, magias) não ficam mais escurecidas.
+- 📱 No celular, as sombras finas do ray tracing usam um tamanho mais leve, para não faltar memória.
+
 ### 🗓️ 08/11/2026 — Clima mais esporádico
 
 **🌤️ Mais tempo bom**
