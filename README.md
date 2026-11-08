@@ -8,6 +8,15 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Peças desenhadas igual ao jogo
+
+**🛡️ Imagens das peças feitas do próprio personagem**
+- 🎨 As imagens dos itens agora são **desenhadas a partir da armadura 3D do jogo**: o que você vê no ícone é exatamente a peça que aparece no seu herói.
+- ⭐ Cada estrela aparece com o **seu material, cor e detalhes**, como gemas, pontas e a auréola das armaduras mais altas.
+- 🧤 A **luva** e a **ombreira** aparecem sozinhas e grandes. **Calças** e **botas** aparecem em par, como no personagem.
+- ⚔️ As **armas** aparecem com o modelo da classe certa (espada, arco, cajado, adagas, foice, martelo, machado, manoplas), além do **escudo** e do **amuleto**.
+- 🎒 Vale para a etiqueta do chão, o cartão "Você pegou", a mochila, a descoberta e a Forja.
+
 ### 🗓️ 08/11/2026 — Câmera para cima e para baixo
 
 **↕️ Incline a câmera em todas as distâncias**
