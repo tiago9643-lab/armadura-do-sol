@@ -8,6 +8,13 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Jogo mais liso (menos travadinhas)
+
+**🎮 Desempenho**
+- 📉 A **resolução automática** não fica mais sobe-e-desce a cada poucos segundos: ela só baixa se o jogo ficar lento de verdade e só volta a subir depois de um tempo estável. Isso acabava com os travadinhos de vez em quando, principalmente em placas de vídeo Intel.
+- 🖼️ Quando cai um item no meio da luta, a **imagem da peça** é preparada com calma, sem parar o jogo: aparece um ícone na hora e a foto da peça entra logo depois.
+- ⚡ Os efeitos de cada fase são **preparados no carregamento**, para não engasgar na primeira vez que aparecem.
+
 ### 🗓️ 08/11/2026 — Ray tracing corrigido e melhorado
 
 **✨ Ray tracing (simulado) novo**
