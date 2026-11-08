@@ -8,6 +8,34 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Clima adverso em todas as fases
+
+**🌦️ Cada fase com o seu clima**
+- 🌧️ **Bosque dos Goblins:** chuva. O chão escorrega e você anda um pouco mais devagar.
+- ☠️ **Pântano Sombrio:** névoa venenosa, densa, que tira vida aos poucos.
+- 💎 **Caverna de Cristal:** cristais despencam do teto.
+- 🌪️ **Deserto Escaldante:** tempestade de areia. O vento empurra e quase não dá para ver.
+- 🍂 **Castelo Esquecido:** vendaval que empurra você.
+- ☄️ **Vulcão Ancestral:** chuva de cinzas e pedras de lava caindo do céu.
+- ❄️ **Tundra Congelada:** nevasca. Você anda 15% mais devagar e enxerga pouco.
+- 🍄 **Floresta de Cogumelos:** nuvem de esporos que deixa você lento e faz mal.
+- ⛈️ **Ruínas Submersas:** tempestade tropical com raios.
+- 🪨 **Cânion Rubro:** pedras despencam dos paredões.
+- 👻 **Cemitério Lunar:** névoa espectral que suga a vida.
+- ⚡ **Pico das Tempestades:** raios caindo perto de você.
+- 🌬️ **Jardim Celestial:** ventania forte.
+- 🔪 **Abismo de Obsidiana:** chuva de estilhaços.
+- 🔥 **Forja dos Titãs:** onda de calor que queima, com brasas caindo.
+- ⌛ **Labirinto do Tempo:** distorção do tempo. Você anda 20% mais devagar.
+- 🌠 **Vazio Estelar:** chuva de meteoros.
+- 🌀 **Trono do Caos:** a Fúria do Caos junta raios, meteoros e vento.
+
+**⚠️ Como funciona**
+- 🔁 O tempo **alterna entre calmo e forte**. Quando fica forte, aparece um aviso no meio da tela e o ícone do clima pisca no alto.
+- 🎯 Tudo que cai do céu mostra antes um **círculo de aviso no chão**: saia dele! Os inimigos dentro do círculo também se machucam, então dá para usar a seu favor.
+- 💚 O dano aos poucos (névoa, esporos, calor) **nunca mata**: ele para quando sua vida fica baixa.
+- 🐉 Na luta contra o chefe, o clima fica mais leve.
+
 ### 🗓️ 08/11/2026 — Etiquetas ainda mais discretas
 
 **👻 Visão limpa na luta**
