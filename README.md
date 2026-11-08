@@ -8,6 +8,21 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Saiba o que está pegando + Postos do Selo
+
+**🏷️ Itens com etiqueta no chão**
+- 🛡️ Toda armadura e arma caída mostra uma **etiqueta** com a imagem, o nome na cor da estrela, a raridade e o atributo principal.
+- ⬆️ A etiqueta já diz se a peça é **▲ melhor**, **▼ pior** ou **= igual** à que você está usando, se é **novo** (nada equipado ali) ou de **outra classe**.
+- 💎 As **pedras agora caem no chão**, brilhando na cor delas, com o nome e o efeito (ex.: "+4% de sorte nos drops"). Ao chegar perto, elas voam até você.
+- 🃏 Ao pegar, aparece um **cartão "Você pegou"** com todos os atributos e a comparação com o que está equipado (+vida, +ataque, +defesa).
+
+**🔮 Postos do Selo (no lugar das 3 runas)**
+- ⚔️ Para abrir o portal do chefe, agora você **liberta 3 postos**: cada um tem um selo protegido por uma bolha mágica.
+- 🟣 Os guardas do posto ficam marcados com um **anel roxo** no chão e aparecem em roxo no minimapa. Eles não desistem de você.
+- 👑 Cada posto tem um **capitão (elite)** e um **arqueiro**, e nas fases mais difíceis vêm mais guardas.
+- 💥 Quando o último guarda cai, o selo quebra e solta **ouro**, com chance de um **item**.
+- 🧭 O alto da tela mostra quantos postos faltam e quantos guardas ainda restam no posto mais perto.
+
 ### 🗓️ 08/11/2026 — Casas, castelo e inimigos armados
 
 **🏠 Casas para entrar**
