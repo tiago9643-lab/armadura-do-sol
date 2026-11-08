@@ -8,6 +8,15 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Altura conta no combate
+
+**⛰️ Morros de verdade**
+- 🚫 Lá de baixo **não dá mais para acertar** quem está em cima do morro, e quem está em cima também não acerta você com golpe de perto.
+- 🧗 Para lutar, **suba a rampa**: quando vocês estão quase na mesma altura, os golpes pegam normalmente.
+- 🔥 Magias de área e golpes giratórios só atingem quem está na mesma altura do centro do golpe.
+- 🏹 Flechas, magias e machados **voam retos e batem na encosta**: atirar de baixo para o topo não funciona.
+- 🎯 Os arqueiros lá em cima **miram para baixo** em você, mas a borda do morro serve de **cobertura**.
+
 ### 🗓️ 08/11/2026 — Peças desenhadas igual ao jogo
 
 **🛡️ Imagens das peças feitas do próprio personagem**
