@@ -8,6 +8,14 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Clima mais esporádico
+
+**🌤️ Mais tempo bom**
+- ☀️ Agora, na maior parte do tempo, o **céu fica limpo**, sem nenhum efeito de clima.
+- 🌩️ De vez em quando chega uma **onda de mau tempo**: ela vem chegando, fica forte por uns 30 segundos e depois vai embora.
+- ⏳ Entre uma onda e outra passam de **2 a 4 minutos** de tempo bom. A primeira chega entre 1 e 2 minutos depois do começo da fase.
+- 🏷️ O ícone do clima no alto da tela só aparece quando tem mau tempo.
+
 ### 🗓️ 08/11/2026 — Água e neve se acumulando + correção visual
 
 **💧 Acúmulo de água**
