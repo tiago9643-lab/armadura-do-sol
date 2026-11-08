@@ -8,6 +8,15 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Cada item com a sua imagem
+
+**🧤 Só a peça que caiu**
+- 🪖 Agora cada item mostra **só a própria peça**: caiu uma luva, aparece a luva. Caiu um peitoral, aparece o peitoral. Vale para capacete, ombreira, peitoral, luvas, calças e botas.
+- 🎨 A imagem vem da armadura daquela estrela, com as cores e o brilho certos de cada material.
+- 🔘 No canto de cada imagem tem um **mini ícone da peça**, para não ter dúvida.
+- ⚔️ Armas, escudos e amuletos aparecem com o ícone na cor da estrela.
+- 🎒 Funciona na **etiqueta do chão**, no **cartão "Você pegou"**, na **mochila**, na **descoberta lendária** e na **Forja**.
+
 ### 🗓️ 08/11/2026 — Câmera livre em todas as distâncias
 
 **🔄 Girar a câmera em qualquer câmera**
