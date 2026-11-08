@@ -8,6 +8,17 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Ícone certo de cada arma + etiquetas que não atrapalham
+
+**⚔️ Cada arma com o seu ícone**
+- 🗡️ O ícone agora mostra o **tipo certo de arma**: espada, machado, martelo, arco, cajado, adagas, manoplas ou foice. Nada de espada no lugar do cajado.
+- 🎒 Vale na mochila, nos espaços de equipamento, na fusão, nas etiquetas do chão, no cartão "Você pegou" e na tela de vitória.
+
+**🏷️ Etiquetas que não tapam os inimigos**
+- 🔖 Os itens no chão agora mostram só um **selinho pequeno e transparente**, com a imagem, as estrelas e uma seta (▲ melhor, ▼ pior, = igual, ✕ outra classe).
+- 🔍 A **etiqueta completa**, com nome e atributos, aparece só no item **mais perto de você**.
+- 👀 Assim dá para ver os inimigos em volta mesmo com vários itens caídos.
+
 ### 🗓️ 08/11/2026 — Altura conta no combate
 
 **⛰️ Morros de verdade**
