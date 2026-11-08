@@ -8,6 +8,20 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Água e neve se acumulando + correção visual
+
+**💧 Acúmulo de água**
+- 🌧️ Nas fases com chuva (Bosque dos Goblins, Ruínas Submersas, Pico das Tempestades e Trono do Caos), quando a chuva aperta, **o chão, as árvores, as pedras e os telhados vão ficando molhados**: mais escuros e brilhantes.
+- 🫧 **Poças novas aparecem e vão crescendo** pelo mapa, e as poças que já existiam aumentam. Todas refletem e espirram quando você pisa.
+- ☀️ Quando a chuva acalma, tudo **seca aos poucos**.
+
+**❄️ Acúmulo de neve**
+- 🌨️ Na Tundra Congelada, durante a nevasca, **a neve vai cobrindo o topo das árvores, os telhados, as pedras e o chão**.
+
+**🛠️ Correções**
+- 📺 Sumiram as **listras no horizonte**, que pareciam defeito no monitor quando a câmera ficava baixa.
+- 👀 A neblina do clima forte **não esconde mais o seu herói**, mesmo com a câmera longe.
+
 ### 🗓️ 08/11/2026 — Clima adverso em todas as fases
 
 **🌦️ Cada fase com o seu clima**
