@@ -8,6 +8,20 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Câmera livre em todas as distâncias
+
+**🔄 Girar a câmera em qualquer câmera**
+- 🎥 Agora **todas as distâncias de câmera giram**: Primeira pessoa, Close, Perto, Normal, Longe, Muito longe e Visão de águia.
+- 🖱️ **Mouse:** é só mexer para girar.
+- 🎮 **Controle Xbox ou PlayStation:** o **analógico direito** gira a câmera.
+- 🧭 O herói anda sempre para onde a câmera está olhando: W ou o analógico para frente segue a tela.
+- 🔁 Ao trocar a distância da câmera, o ângulo continua o mesmo.
+
+**🖱️ Cursor escondido**
+- 👻 Enquanto você joga com mouse e teclado, o **cursor some**, como nos jogos de PC.
+- ⌥ Segure **Alt** para o cursor aparecer e clicar nos botões da tela. Ao apertar qualquer tecla ou clicar no jogo, ele some de novo.
+- ⏸️ **Esc** pausa o jogo e mostra o cursor.
+
 ### 🗓️ 08/11/2026 — Reflexo na água
 
 **🪞 Poças e lagos com reflexo**
