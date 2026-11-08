@@ -8,6 +8,15 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Câmera para cima e para baixo
+
+**↕️ Incline a câmera em todas as distâncias**
+- 🎥 Além de girar para os lados, agora dá para **inclinar a câmera para cima e para baixo** em todas as câmeras: Close, Perto, Normal, Longe, Muito longe e Visão de águia (na Primeira pessoa já dava).
+- 🖱️ **Mouse:** mexa para cima ou para baixo. 🎮 **Controle:** analógico direito para cima ou para baixo. 📱 **Celular:** arraste o dedo na vertical.
+- 🌄 **Mais baixa:** a câmera chega perto do chão e mostra o horizonte, o céu, os castelos e as casas lá longe.
+- 🦅 **Mais alta:** a câmera vê o mapa quase de cima, bom para lutar contra muitos inimigos.
+- 🧱 A câmera nunca entra no chão, nem nos morros.
+
 ### 🗓️ 08/11/2026 — Cada item com a sua imagem
 
 **🧤 Só a peça que caiu**
