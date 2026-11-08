@@ -8,6 +8,15 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Reflexo na água
+
+**🪞 Poças e lagos com reflexo**
+- 💧 As **poças e os lagos agora refletem de verdade** o céu, as árvores, as casas, os inimigos e você.
+- 🌅 Quanto mais de lado você olha, mais a água vira espelho, como na vida real.
+- 👁️ Na **primeira pessoa**, dá para ver o **próprio herói refletido** na poça.
+- 🌙 À noite, as estrelas, a lua e as janelas acesas aparecem na água.
+- ⚙️ Liga nos gráficos **Médio, Alto e Ultra**, e quanto maior o gráfico, mais nítido fica. No Mínimo e no Leve fica desligado para não pesar.
+
 ### 🗓️ 08/11/2026 — Saiba o que está pegando + Postos do Selo
 
 **🏷️ Itens com etiqueta no chão**
