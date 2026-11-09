@@ -1,0 +1,2 @@
+Personagens e animações: Mixamo (Adobe) — uso em jogos permitido pelos termos do Mixamo.
+warrior.glb = Knight D Pelegrini; anim_sword.glb = Pro Sword and Shield Pack (seleção).

@@ -8,6 +8,17 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Guerreiro com boneco realista animado
+
+**⚔️ Novo visual do Guerreiro**
+- 🧍 O **Guerreiro** agora é um **boneco 3D realista**, com rosto, roupa e armadura detalhados, no lugar do boneco de blocos.
+- 🎬 **Animações de verdade**: parado, correndo, **3 golpes em sequência** (ataque rápido seguido vira combo), investida com escudo, giro da lâmina, defesa, esquiva, levar golpe e morrer.
+- 🗡️ A **espada e o escudo** que você equipa aparecem nas mãos dele, com a cor e o brilho da estrela da peça.
+- ✨ Visual mais vivo, com um **contorno de luz** em volta do corpo que fica da cor da estrela do peitoral.
+- 🐎 No cavalo ele ainda usa o visual antigo, e nos gráficos Mínimo e Leve também (para não pesar).
+- 🔜 As outras classes e os inimigos vão ganhar boneco realista nas próximas atualizações.
+- 📜 Personagens e animações do Mixamo (Adobe).
+
 ### 🗓️ 08/11/2026 — Aviso de item pego mais discreto
 
 **🎒 Cartão de "Você pegou"**
