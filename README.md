@@ -8,6 +8,18 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 09/11/2026 — Armas de verdade para os heróis
+
+**🗡️ Armas novas**
+- 🔮 O **Mago** e o **Necromante** agora seguram um **cajado de verdade**, com a pedra mágica no topo.
+- 🗡️ A **Assassina** luta com **duas adagas** de verdade.
+- ⚔️ O **Paladino** usa a **espada do próprio boneco**, e o **machado do Bárbaro** agora pega a **cor da estrela** da arma equipada.
+- 🌈 Todas essas armas ficam com a cor da estrela do item (das 5★ para cima, brilham).
+
+**🎥 Câmera em primeira pessoa**
+- 🐛 Corrigido: na primeira pessoa ainda aparecia o **braço do boneco antigo de blocos**. Agora aparece a **arma de verdade** do seu herói.
+- 🔁 A mão da primeira pessoa também é refeita quando o boneco novo termina de carregar.
+
 ### 🗓️ 08/11/2026 — Todas as classes com boneco realista
 
 **🧍 Bonecos novos para os 8 heróis**

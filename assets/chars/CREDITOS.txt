@@ -1,3 +1,4 @@
 Personagens e animações: Mixamo (Adobe) — uso em jogos permitido pelos termos do Mixamo.
 warrior=Knight D Pelegrini; paladin=Paladin WProp J Nordstrom; barbarian=Brute; archer=Erika Archer; mage=Ch39; necro=Vampire A Lusth; assassin=Nightshade J Friedrich; monk=Kachujin G Rosales.
 Animações: Pro Sword and Shield, Great Sword, Pro Magic, Pro Longbow (seleções).
+Armas KayKit Adventurers 1.0 (Kay Lousberg, CC0): staff, dagger -> kk_weapons.glb.
