@@ -8,6 +8,18 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 09/11/2026 — Ajustes manuais de gráfico e heróis realistas
+
+🎛️ **Ajustes manuais de gráfico:** dentro de Gráficos, abra "Ajustes manuais" para regular cada coisa separadamente:
+- limite de quadros (sem limite/VSync, 30, 45, 60, 90, 120 ou 144);
+- resolução (50% a 100%) e resolução dinâmica;
+- sombras, brilho, cores de cinema e reflexos na água;
+- quantidade de grama, distância de visão, vento na vegetação e detalhes extras.
+
+Um botão volta tudo ao padrão do nível escolhido.
+🧑‍🎨 **Heróis e monstros no estilo do cenário:** com os gráficos realistas ligados, roupas viram tecido de verdade, botas e cintos ganham couro, peles e cabelos ganham fios, ossos e madeira ganham textura, e as armaduras ficam com brilho de metal. No Leve, no Mínimo ou com o realista desligado, eles continuam do jeito clássico.
+🏷️ **Avisos organizados:** ao pegar várias coisas de uma vez, os nomes que sobem do herói não ficam mais um por cima do outro, e os cartões de item pego ficam acima da lista de mensagens.
+
 ### 🗓️ 09/11/2026 — Menus organizados, medidor de FPS e informações do aparelho
 
 🗂️ **Tela inicial em abas:** o painel da esquerda virou três abas — **Herói** (escolha da classe e visual), **Progresso** (nível, atributos, ouro, poções e dificuldade) e **Ajustes**.

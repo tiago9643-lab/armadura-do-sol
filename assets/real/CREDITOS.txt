@@ -11,3 +11,4 @@ Modelos reduzidos (menos polígonos, texturas 512 px webp) com gltf-transform.
 - Construções medievais (Poly Haven, CC0; 1k): bark_brown_01, clay_plaster, grey_roof_tiles, medieval_wood, mossy_stone_wall,
   old_planks_02, rock_face, roof_slates_02, rough_linen, rough_wood, stacked_stone_wall, stone_wall, thatch_roof_angled,
   white_plaster_rough_01, wood_trunk_wall (cor _d 1024 px e relevo _n 512 px, webp).
+- Personagens no modo realista (Poly Haven, CC0): brown_leather (couro), além de rough_linen, thatch_roof_angled, clay_plaster e old_planks_02.
