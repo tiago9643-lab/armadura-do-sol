@@ -8,6 +8,27 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Todas as classes com boneco realista
+
+**🧍 Bonecos novos para os 8 heróis**
+- ⚔️ **Guerreiro, Paladino, Bárbaro, Arqueira, Mago, Necromante, Assassina e Monge** agora são bonecos 3D realistas, com rosto, roupa e armadura detalhados.
+- 🎬 Cada classe tem **animações próprias**: o Bárbaro luta com espadão, o Mago e o Necromante lançam magias, a Arqueira puxa o arco, o Monge dá socos e chutes, e a Assassina e o Paladino lutam com lâmina.
+- 🔁 **Combo de 3 golpes** em todas as classes, além de animações para as habilidades, esquiva, defesa, levar golpe e morrer.
+
+**🗡️ Armas e armaduras com textura melhor**
+- 🛡️ Armas de verdade, com textura detalhada: o **escudo do Paladino**, o **machado do Bárbaro** e o **arco da Arqueira**. O Guerreiro ganhou **espada e escudo novos**.
+- 🌈 Essas armas ficam com a **cor e o brilho da estrela** do item equipado (das 5★ para cima, brilham).
+- ✨ As **partes de metal da roupa** do herói ganham a cor e o brilho de metal da estrela do peitoral.
+- 🔍 Texturas das armas e armaduras mais finas nos gráficos Alto e Ultra.
+
+**🐛 Correção**
+- O boneco novo **sumia e voltava o antigo** depois de clicar no herói no mapa. Agora ele fica.
+
+**ℹ️ Bom saber**
+- Vale nos gráficos **Médio, Alto e Ultra**. No Mínimo e no Leve, e em cima do cavalo, continua o visual antigo.
+- Na primeira vez de cada classe, o boneco leva alguns segundos para baixar.
+- 📜 Personagens e animações do Mixamo (Adobe).
+
 ### 🗓️ 08/11/2026 — Guerreiro com boneco realista animado
 
 **⚔️ Novo visual do Guerreiro**

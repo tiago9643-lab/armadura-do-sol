@@ -1,2 +1,3 @@
 Personagens e animações: Mixamo (Adobe) — uso em jogos permitido pelos termos do Mixamo.
-warrior.glb = Knight D Pelegrini; anim_sword.glb = Pro Sword and Shield Pack (seleção).
+warrior=Knight D Pelegrini; paladin=Paladin WProp J Nordstrom; barbarian=Brute; archer=Erika Archer; mage=Ch39; necro=Vampire A Lusth; assassin=Nightshade J Friedrich; monk=Kachujin G Rosales.
+Animações: Pro Sword and Shield, Great Sword, Pro Magic, Pro Longbow (seleções).
