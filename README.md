@@ -8,6 +8,13 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Aviso de item pego mais discreto
+
+**🎒 Cartão de "Você pegou"**
+- 🔍 O cartão que aparece ao pegar um item ou uma pedra ficou **menor** (imagem, letras e espaços mais compactos).
+- 👻 Ficou **mais transparente**, dá para ver o jogo por trás.
+- 📱 No celular em pé, ele aparece **em cima, à esquerda**, logo abaixo do objetivo, sem tampar o herói nem as mensagens. Mostra no máximo 2 de cada vez e esconde a linha de dica.
+
 ### 🗓️ 08/11/2026 — Gráficos realistas (teste) no Bosque dos Goblins
 
 **🌳 Mundo com cara de real**
