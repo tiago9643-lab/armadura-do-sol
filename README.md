@@ -8,6 +8,10 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 09/11/2026 — Correção urgente
+
+🛠️ **Voltou a funcionar:** flechas e magias saindo da arma, coleta de moedas e itens do chão, e abertura de baús. A atualização do mundo aberto tinha quebrado essas coisas sem querer.
+
 ### 🗓️ 09/11/2026 — Um mundo só
 
 🗺️ **Mundo aberto:** as 18 fases agora são áreas de um mesmo mundo, ligadas por portões de pedra. Você atravessa de uma área para a outra sem voltar ao menu, levando a vida e tudo o que coletou.
