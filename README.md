@@ -8,6 +8,13 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 09/11/2026 — Heróis clássicos de volta e todas as fases realistas
+
+🧱 **Heróis clássicos:** os heróis voltaram ao visual original do jogo, com todas as armaduras e cores de estrela de antes.
+🌍 **Chão realista em todas as fases:** cada uma das 18 fases ganhou chão com textura de foto que combina com o lugar — lama e folhas no Pântano, cascalho e pedra na Caverna, areia e terra rachada no Deserto, calçamento de pedra no Castelo, rocha escura no Vulcão, neve de verdade na Tundra, terra vermelha no Cânion e muito mais.
+🛤️ **Trilhas:** as estradas têm o seu próprio piso (calçada, cascalho, terra batida) com bordas naturais e irregulares.
+🌿 **Detalhes:** grama alta, samambaias, troncos caídos e pedras com musgo nas fases verdes; pedras grandes espalhadas nas fases de rocha e areia.
+
 ### 🗓️ 09/11/2026 — Armas mais bonitas, tiros novos e heróis andando de verdade
 
 🪄 **Cajados novos:** o Mago e o Necromante ganharam cajados de madeira com textura real, anéis de metal, garras e um cristal brilhante na cor da estrela da arma.
