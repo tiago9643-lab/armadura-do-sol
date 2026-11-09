@@ -8,6 +8,22 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 08/11/2026 — Gráficos realistas (teste) no Bosque dos Goblins
+
+**🌳 Mundo com cara de real**
+- 🌱 **Chão com texturas de foto**: grama, trilha de terra e chão de terra se misturam de um jeito natural, com relevo nos detalhes.
+- 🌾 **Grama densa de verdade**: milhares de tufos que balançam com o vento perto do herói (some de longe para não pesar). Não nasce dentro de casas nem nas poças.
+- 🌲 **Árvores novas**: árvores de folhas com casca de verdade e cachos de folhas, e pinheiros com galhos cheios de agulhas. As sombras saem recortadas no formato das folhas.
+- 🪨 **Pedras, tocos e troncos caídos escaneados** do mundo real, com colisão.
+- 🌿 Samambaias e arbustos perto das árvores.
+- ☁️ **Céu novo** com sol e nuvens que andam devagar, combinando com a hora do dia.
+
+**⚙️ Como usar**
+- Fica **ligado sozinho** no gráfico Médio, Alto ou Ultra. Dá para desligar em *Gráficos → Gráficos realistas (teste)*.
+- Por enquanto vale **só na primeira fase** (Bosque dos Goblins). Na primeira vez pode aparecer "Carregando gráficos realistas…" por alguns segundos.
+- Os personagens ainda são os mesmos: o próximo passo é levar esse visual para as outras fases e depois para os heróis e monstros.
+- 📜 Texturas e modelos do Poly Haven e do ambientCG (licença livre CC0).
+
 ### 🗓️ 08/11/2026 — Jogo mais liso (menos travadinhas)
 
 **🎮 Desempenho**

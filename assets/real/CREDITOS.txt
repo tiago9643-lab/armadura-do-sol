@@ -1,0 +1,6 @@
+Texturas e modelos dos gráficos realistas — todos com licença CC0 (domínio público):
+- Poly Haven (polyhaven.com): grass_path_2, forest_ground_04, bark_brown_02, fern_02, namaqualand_boulder_03,
+  rock_moss_set_01, namaqualand_stones_01, tree_stump_01, dead_tree_trunk.
+- ambientCG (ambientcg.com): Grass004, LeafSet024 (folhas usadas para montar os cachos).
+Os cartões de grama, pinheiro e cachos de folhas foram gerados por script a partir dessas imagens.
+Modelos reduzidos (menos polígonos, texturas 512 px webp) com gltf-transform.
