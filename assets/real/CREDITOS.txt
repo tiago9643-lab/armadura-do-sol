@@ -8,3 +8,6 @@ Modelos reduzidos (menos polígonos, texturas 512 px webp) com gltf-transform.
   gravel_ground_01, cobblestone_floor_04, cobblestone_floor_08, dark_rock, sand_01, sandy_gravel, sandstone_cracks,
   coast_sand_01, snow_02, winter_leaves, rock_pitted_mossy, cracked_red_ground, aerial_rocks_02, aerial_grass_rock
   (cor _d e relevo _n, convertidas para webp).
+- Construções medievais (Poly Haven, CC0; 1k): bark_brown_01, clay_plaster, grey_roof_tiles, medieval_wood, mossy_stone_wall,
+  old_planks_02, rock_face, roof_slates_02, rough_linen, rough_wood, stacked_stone_wall, stone_wall, thatch_roof_angled,
+  white_plaster_rough_01, wood_trunk_wall (cor _d 1024 px e relevo _n 512 px, webp).

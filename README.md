@@ -8,6 +8,15 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 09/11/2026 — Mundo medieval
+
+🏰 **Visual medieval em todas as fases:** casas, castelo, acampamentos e postos do selo foram refeitos com materiais de foto — madeira de verdade, reboco, pedra, palha e telhas.
+🏠 **Casas:** cada região tem o seu estilo. Há casas de enxaimel com telhado de palha, casas de pedra com telhas, casas de pedra com musgo e telhado de ardósia nas regiões sombrias, cabanas de toras na neve e casas de barro no deserto. Todas têm base de pedra, vigas, chaminé e janelas com venezianas.
+🔥 **Acampamentos:** tendas de lona, fogueira com chama que tremula, fagulhas e luz de verdade, troncos para sentar, barris, caixotes e suporte de lanças. Alguns têm torre de vigia de madeira.
+🗿 **Postos do selo:** viraram plataformas de pedra cercadas de menires, com dois braseiros acesos.
+🛒 **Vida no caminho:** barris, caixotes, fardos de feno, lenha empilhada, cercas, poço, carroças e placas na estrada. Nas fases sombrias, postes com lanterna iluminam o caminho, e há muros em ruína pelo mapa.
+🪵 **Enfeites:** troncos, pedras e colunas também ganharam textura realista.
+
 ### 🗓️ 09/11/2026 — Heróis clássicos de volta e todas as fases realistas
 
 🧱 **Heróis clássicos:** os heróis voltaram ao visual original do jogo, com todas as armaduras e cores de estrela de antes.
