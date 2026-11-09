@@ -8,6 +8,14 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 09/11/2026 — Um mundo só
+
+🗺️ **Mundo aberto:** as 18 fases agora são áreas de um mesmo mundo, ligadas por portões de pedra. Você atravessa de uma área para a outra sem voltar ao menu, levando a vida e tudo o que coletou.
+👑 **Chefes guardam o caminho:** cada área tem o seu chefe. Liberte os 3 postos do selo, vença o chefe na arena e o portão do norte, atrás dela, se abre para a próxima área. Nas áreas de arma, o portão também pede o conjunto da região. O portão do sul leva de volta à área anterior.
+🔥 **Fogueiras:** cada área tem uma fogueira na entrada. Fique perto dela, sem inimigos em volta, para descansar: a vida volta cheia e o jogo é salvo.
+🧭 **Viagem rápida:** na pausa, a nova aba **Viagem** leva você até qualquer fogueira já acesa. No menu, a aba **Mundo** substitui a lista de fases.
+⚔️ **Depois do chefe:** a tela de vitória agora tem "Continuar explorando", para seguir pelo portão aberto ou caçar mais na área.
+
 ### 🗓️ 09/11/2026 — Ajustes manuais de gráfico e heróis realistas
 
 🎛️ **Ajustes manuais de gráfico:** dentro de Gráficos, abra "Ajustes manuais" para regular cada coisa separadamente:
