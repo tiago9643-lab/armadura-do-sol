@@ -8,6 +8,15 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 09/11/2026 — Menus organizados, medidor de FPS e informações do aparelho
+
+🗂️ **Tela inicial em abas:** o painel da esquerda virou três abas — **Herói** (escolha da classe e visual), **Progresso** (nível, atributos, ouro, poções e dificuldade) e **Ajustes**.
+⏸️ **Pausa organizada:** Continuar e Sair ficam sempre no topo, e o resto foi separado em abas: Equipamento, Gráficos, Desempenho, Aparelho, Som e tela e Controles.
+🎚️ **Gráficos num lugar só:** uma barra deslizante vai de Automático a Ultra, com a explicação de cada nível. Logo abaixo ficam os botões de gráficos realistas e ray tracing.
+📊 **Medidor de desempenho:** escolha entre desligado, **Só FPS** (um número discreto no alto da tela) ou **Completo**. O modo completo mostra FPS atual, médio, mínimo e o 1% mais lento, além do tempo de cada quadro com gráfico (linhas de 60 e 30 FPS, com riscos vermelhos nas travadinhas), tempo do processador, desenhos, triângulos, resolução e memória.
+💻 **Aparelho:** cartões organizados com placa de vídeo, processador (núcleos, arquitetura e um teste rápido de velocidade), memória, tela (resolução, taxa de atualização em Hz e HDR), sistema, navegador e o nível do aparelho de 1 a 5.
+🏛️ **Fases revisadas:** calçadas de pedra menos brancas, deserto com cores mais quentes e menos estourado, colunas quebradas e caídas nas ruínas e castelos, lápides de pedra com musgo no cemitério, cogumelos com aparência mais natural e cristais com brilho mais suave sobre rochas.
+
 ### 🗓️ 09/11/2026 — Mundo medieval
 
 🏰 **Visual medieval em todas as fases:** casas, castelo, acampamentos e postos do selo foram refeitos com materiais de foto — madeira de verdade, reboco, pedra, palha e telhas.
