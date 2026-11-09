@@ -8,6 +8,16 @@ RPG de ação 3D no navegador. Funciona no computador, no celular e com controle
 
 ## 📜 Novidades
 
+### 🗓️ 09/11/2026 — Armas mais bonitas, tiros novos e heróis andando de verdade
+
+🪄 **Cajados novos:** o Mago e o Necromante ganharam cajados de madeira com textura real, anéis de metal, garras e um cristal brilhante na cor da estrela da arma.
+🗡️ **Adagas:** a Assassina agora segura duas lâminas de metal de verdade, uma em cada mão.
+🎨 **Cor das armas:** a cor da estrela ficou mais suave, então dá para ver a textura do metal e da madeira.
+🏹 **Tiros novos:** flechas com haste, ponta e penas; magias viram bolas de energia com brilho; e tudo sai da mão ou do cristal do herói, não mais do meio do corpo.
+🏃 **Andar atacando:** as pernas continuam andando enquanto os braços atacam — o herói não desliza mais pelo mapa.
+🔄 **Trocar de herói:** o boneco antigo de blocos não pisca mais na tela enquanto o novo carrega, e os outros heróis já vão sendo baixados no mapa para a troca ficar rápida.
+🌲 **Cenário:** continua no estilo realista.
+
 ### 🗓️ 09/11/2026 — Armas de verdade para os heróis
 
 **🗡️ Armas novas**
